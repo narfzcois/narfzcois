@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there 👋
+
+I'm Norsh, an IT student based in the Philippines focusing on cybersecurity.
+
+I mostly spend my time learning network defense, system hardening, and security operations — building home labs and documenting how attacks work and how to stop them.
+
+This profile is where I document my hands-on projects, lab setups, and security writeups as I prepare to transition into a full-time cybersecurity role. Everything here is built and tested from scratch to reinforce what I learn.
+
+---
+
+### What I'm Currently Working On
+
+- 🛡️ Building a home SIEM lab using Wazuh to monitor Linux and Windows endpoints
+- 🔍 Practicing network traffic analysis and incident triage on Hack The Box
+- 📚 Studying for CompTIA Security+ 
+
+---
+
+### Tools & Tech
+
+- **Network & Traffic Analysis:** Wireshark, Nmap, tcpdump[cite: 1]
+- **SIEM & Monitoring:** Wazuh, Splunk, Sysmon[cite: 1]
+- **Systems & Virtualization:** Linux (Kali, Ubuntu), Windows Server, VirtualBox[cite: 1]
+- **Scripting & Automation:** Python, Bash[cite: 1]
+
+---
+
+### How to Reach Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- 🎯 **TryHackMe / HTB:** [tryhackme.com/p/your-username](https://tryhackme.com/p/your-username)
+- 📫 **Email:** your.email@example.com
