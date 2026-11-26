@@ -35,15 +35,15 @@ This profile is where I document my hands-on projects, lab setups, and security 
 
 ### Tools & Tech
 
-- **Network & Traffic Analysis:** Wireshark, Nmap, tcpdump[cite: 1]
-- **SIEM & Monitoring:** Wazuh, Splunk, Sysmon[cite: 1]
-- **Systems & Virtualization:** Linux (Kali, Ubuntu), Windows Server, VirtualBox[cite: 1]
-- **Scripting & Automation:** Python, Bash[cite: 1]
+- **Network & Traffic Analysis:** Wireshark, Nmap, tcpdump
+- **SIEM & Monitoring:** Wazuh, Splunk, Sysmon
+- **Systems & Virtualization:** Linux (Kali, Ubuntu), Windows Server, VirtualBox
+- **Scripting & Automation:** Python, Bash
 
 ---
 
 ### How to Reach Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
+- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/norsh-daniel-francois-lopez-286763379/)
 - 🎯 **TryHackMe / HTB:** [tryhackme.com/p/your-username](https://tryhackme.com/p/your-username)
 - 📫 **Email:** your.email@example.com
