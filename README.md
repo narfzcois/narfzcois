@@ -45,5 +45,5 @@ This profile is where I document my hands-on projects, lab setups, and security 
 ### How to Reach Me
 
 - 💼 **LinkedIn:** [Norsh Daniel Francois Lopez](https://www.linkedin.com/in/norsh-daniel-francois-lopez-286763379/)
-- 🎯 **TryHackMe / HTB:** [Narfz](https://profile.hackthebox.com/profile/01a1a7d4-f936-739c-a88b-49996286dd90?utm_medium=copy_url)
+- 🎯 **HTB:** [Narfz](https://profile.hackthebox.com/profile/01a1a7d4-f936-739c-a88b-49996286dd90?utm_medium=copy_url)
 - 📫 **Email:** franoda.lopez@gmail.com
